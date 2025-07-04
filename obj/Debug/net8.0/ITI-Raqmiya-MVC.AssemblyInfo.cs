@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITI-Raqmiya-MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6102f0d78c936496ca27d7e1a19d41c1d920a829")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9982316da48e4bd37a1874e7d842b773ed872e8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITI-Raqmiya-MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITI-Raqmiya-MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

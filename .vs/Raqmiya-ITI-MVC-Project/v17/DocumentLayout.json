@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mahmo\\source\\repos\\Raqmiya-ITI-MVC-Project\\",
+  "WorkspaceRootPath": "D:\\ITI Labs\\ASP.NET\\MVCProject\\Raqmiya-ITI-MVC-Project\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -11,6 +11,10 @@
           "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
