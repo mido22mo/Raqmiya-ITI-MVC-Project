@@ -1,160 +1,160 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\",
+  "WorkspaceRootPath": "D:\\RAQMIYA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\productcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\subscriptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\data\\raqmiyacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\data\\raqmiyacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:data\\raqmiyacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\licensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\licensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\licensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\offercodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\offercodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\offercodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\addedfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\addedfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\addedfilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\variantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\variantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\variantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\addedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\addedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\addedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.301\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\migrations\\20250705174723_addedsaltcolumnforuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\migrations\\20250705174723_addedsaltcolumnforuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:migrations\\20250705174723_addedsaltcolumnforuserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\offercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\offercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\offercode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:configurations\\productcategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\iti full stack .net course and tasks\\.net projects-executions\\project repos\\raqmiya-iti-mvc-project\\migrations\\20250705172232_added_category_and_replaced_guids_with_ids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|d:\\raqmiya\\migrations\\20250705172232_added_category_and_replaced_guids_with_ids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C7166B8-2CBC-45B2-B273-65E65AE7A41D}|ITI-Raqmiya-MVC.csproj|solutionrelative:migrations\\20250705172232_added_category_and_replaced_guids_with_ids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -165,20 +165,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 18,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-05T20:52:45.499Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             },
             {
               "$type": "Bookmark",
@@ -186,214 +221,224 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\RAQMIYA\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\RAQMIYA\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-05T20:52:45.499Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductCategoriesController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\ProductCategoriesController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\ProductCategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductCategoriesController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\ProductCategoriesController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\ProductCategoriesController.cs",
               "RelativeToolTip": "Controllers\\ProductCategoriesController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:43:44.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:43:44.589Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "LicensesController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\LicensesController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\LicensesController.cs",
               "RelativeDocumentMoniker": "Controllers\\LicensesController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\LicensesController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\LicensesController.cs",
               "RelativeToolTip": "Controllers\\LicensesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:41:53.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:41:53.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ProductCategory.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\ProductCategory.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\ProductCategory.cs",
               "RelativeDocumentMoniker": "Models\\ProductCategory.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\ProductCategory.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\ProductCategory.cs",
               "RelativeToolTip": "Models\\ProductCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:21:12.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:21:12.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Product.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\Product.cs",
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:30:32.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:30:32.535Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "RaqmiyaContext.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Data\\RaqmiyaContext.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Data\\RaqmiyaContext.cs",
               "RelativeDocumentMoniker": "Data\\RaqmiyaContext.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Data\\RaqmiyaContext.cs",
+              "ToolTip": "D:\\RAQMIYA\\Data\\RaqmiyaContext.cs",
               "RelativeToolTip": "Data\\RaqmiyaContext.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAA2wBcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:15:50.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:15:50.019Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAJYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:56:03.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:56:03.965Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SubscriptionsController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\SubscriptionsController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\SubscriptionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\SubscriptionsController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\SubscriptionsController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\SubscriptionsController.cs",
               "RelativeToolTip": "Controllers\\SubscriptionsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:35:41.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:35:41.196Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Controllers\\OrdersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:40:19.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:40:19.965Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "OfferCodesController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\OfferCodesController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\OfferCodesController.cs",
               "RelativeDocumentMoniker": "Controllers\\OfferCodesController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\OfferCodesController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\OfferCodesController.cs",
               "RelativeToolTip": "Controllers\\OfferCodesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:39:35.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:39:35.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\CategoriesController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:38:41.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:38:41.433Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AddedFilesController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\AddedFilesController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\AddedFilesController.cs",
               "RelativeDocumentMoniker": "Controllers\\AddedFilesController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\AddedFilesController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\AddedFilesController.cs",
               "RelativeToolTip": "Controllers\\AddedFilesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:37:43.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:37:43.162Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "VariantsController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\VariantsController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\VariantsController.cs",
               "RelativeDocumentMoniker": "Controllers\\VariantsController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\VariantsController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\VariantsController.cs",
               "RelativeToolTip": "Controllers\\VariantsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:36:53.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:36:53.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Category.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Category.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:20:00.967Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:20:00.967Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "PostsController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\PostsController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\PostsController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\PostsController.cs",
               "RelativeToolTip": "Controllers\\PostsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:29:21.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:29:21.033Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T20:26:49.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T20:26:49.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\RAQMIYA\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,22 +448,21 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\RAQMIYA\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\RAQMIYA\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T15:16:16.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T15:16:16.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Variant.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Variant.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\Variant.cs",
               "RelativeDocumentMoniker": "Models\\Variant.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Variant.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\Variant.cs",
               "RelativeToolTip": "Models\\Variant.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAswAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,48 +472,45 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\appsettings.json",
+              "DocumentMoniker": "D:\\RAQMIYA\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\appsettings.json",
+              "ToolTip": "D:\\RAQMIYA\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-05T16:37:47.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:37:47.623Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "AddedFile.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\AddedFile.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\AddedFile.cs",
               "RelativeDocumentMoniker": "Models\\AddedFile.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\AddedFile.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\AddedFile.cs",
               "RelativeToolTip": "Models\\AddedFile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:52:39.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:52:39.164Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Post.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Post.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\Post.cs",
               "RelativeDocumentMoniker": "Models\\Post.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Post.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\Post.cs",
               "RelativeToolTip": "Models\\Post.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:53:36.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:53:36.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Review.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Review.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Models\\Review.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Review.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\Review.cs",
               "RelativeToolTip": "Models\\Review.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,9 +520,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Subscription.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Subscription.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\Subscription.cs",
               "RelativeDocumentMoniker": "Models\\Subscription.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Subscription.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\Subscription.cs",
               "RelativeToolTip": "Models\\Subscription.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,22 +532,21 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\ViewModels\\ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\ErrorViewModel.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "D:\\RAQMIYA\\ViewModels\\ErrorViewModel.cs",
               "RelativeToolTip": "ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T16:18:23.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-05T16:18:23.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\User.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\User.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAiwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -516,9 +556,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "20250705174723_addedSaltColumnForUserEntity.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Migrations\\20250705174723_addedSaltColumnForUserEntity.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Migrations\\20250705174723_addedSaltColumnForUserEntity.cs",
               "RelativeDocumentMoniker": "Migrations\\20250705174723_addedSaltColumnForUserEntity.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Migrations\\20250705174723_addedSaltColumnForUserEntity.cs",
+              "ToolTip": "D:\\RAQMIYA\\Migrations\\20250705174723_addedSaltColumnForUserEntity.cs",
               "RelativeToolTip": "Migrations\\20250705174723_addedSaltColumnForUserEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -538,9 +578,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "20250705172232_added_category_and_replaced_GUIDs_with_IDs.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Migrations\\20250705172232_added_category_and_replaced_GUIDs_with_IDs.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Migrations\\20250705172232_added_category_and_replaced_GUIDs_with_IDs.cs",
               "RelativeDocumentMoniker": "Migrations\\20250705172232_added_category_and_replaced_GUIDs_with_IDs.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Migrations\\20250705172232_added_category_and_replaced_GUIDs_with_IDs.cs",
+              "ToolTip": "D:\\RAQMIYA\\Migrations\\20250705172232_added_category_and_replaced_GUIDs_with_IDs.cs",
               "RelativeToolTip": "Migrations\\20250705172232_added_category_and_replaced_GUIDs_with_IDs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -550,9 +590,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Order.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\Order.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\Order.cs",
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAwwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -562,9 +602,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "OfferCode.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\OfferCode.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\OfferCode.cs",
               "RelativeDocumentMoniker": "Models\\OfferCode.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\OfferCode.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\OfferCode.cs",
               "RelativeToolTip": "Models\\OfferCode.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -574,9 +614,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "License.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\License.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Models\\License.cs",
               "RelativeDocumentMoniker": "Models\\License.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Models\\License.cs",
+              "ToolTip": "D:\\RAQMIYA\\Models\\License.cs",
               "RelativeToolTip": "Models\\License.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA5wAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -586,9 +626,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "D:\\RAQMIYA\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\RAQMIYA\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -598,9 +638,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\RAQMIYA\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\appsettings.Development.json",
+              "ToolTip": "D:\\RAQMIYA\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -610,9 +650,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "ProductConfiguration.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Configurations\\ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Configurations\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\ProductConfiguration.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "D:\\RAQMIYA\\Configurations\\ProductConfiguration.cs",
               "RelativeToolTip": "Configurations\\ProductConfiguration.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAQwFkAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -622,9 +662,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ProductCategoryConfiguration.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Configurations\\ProductCategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Configurations\\ProductCategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\ProductCategoryConfiguration.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Configurations\\ProductCategoryConfiguration.cs",
+              "ToolTip": "D:\\RAQMIYA\\Configurations\\ProductCategoryConfiguration.cs",
               "RelativeToolTip": "Configurations\\ProductCategoryConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -634,9 +674,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Configurations\\CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\RAQMIYA\\Configurations\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "Configurations\\CategoryConfiguration.cs",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\RAQMIYA\\Configurations\\CategoryConfiguration.cs",
               "RelativeToolTip": "Configurations\\CategoryConfiguration.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -646,9 +686,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\RAQMIYA\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\RAQMIYA\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -658,9 +698,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\RAQMIYA\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ITI Full Stack .Net Course and Tasks\\.Net Projects-Executions\\Project Repos\\Raqmiya-ITI-MVC-Project\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\RAQMIYA\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
