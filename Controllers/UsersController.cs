@@ -148,7 +148,7 @@ namespace ITI_Raqmiya_MVC.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool UserExists(int id)
+        private bool UserExists(int? id)
         {
             return _context.Users.Any(e => e.Id == id);
         }

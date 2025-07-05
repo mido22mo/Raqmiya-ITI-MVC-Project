@@ -21,7 +21,7 @@ namespace ITI_Raqmiya_MVC.Data
         public DbSet<Subscription> Subscriptions { get; set; } = null!;
         public DbSet<Post> Posts { get; set; } = null!;
         public DbSet<Category> Categories { get; set; } = null!;
-        DbSet<ProductCategory> ProductCategories { get; set; } = null!;
+        public DbSet<ProductCategory> ProductCategories { get; set; } = null!;
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
