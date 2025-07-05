@@ -1,4 +1,4 @@
-namespace ITI_Raqmiya_MVC.Models
+namespace ITI_Raqmiya_MVC.ViewModels
 {
     public class ErrorViewModel
     {
