@@ -557,3 +557,6 @@ D:\ITI Full Stack .Net Course and Tasks\.Net Projects-Executions\Project Repos\R
 D:\ITI Full Stack .Net Course and Tasks\.Net Projects-Executions\Project Repos\Raqmiya-ITI-MVC-Project\obj\Debug\net8.0\ITI-Raqmiya-MVC.genruntimeconfig.cache
 D:\ITI Full Stack .Net Course and Tasks\.Net Projects-Executions\Project Repos\Raqmiya-ITI-MVC-Project\obj\Debug\net8.0\ref\ITI-Raqmiya-MVC.dll
 D:\ITI Full Stack .Net Course and Tasks\.Net Projects-Executions\Project Repos\Raqmiya-ITI-MVC-Project\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\mahmo\source\repos\mido22mo\Raqmiya-ITI-MVC-Project\obj\Debug\net8.0\ITI-Raqmiya-MVC.dll
+C:\Users\mahmo\source\repos\mido22mo\Raqmiya-ITI-MVC-Project\obj\Debug\net8.0\refint\ITI-Raqmiya-MVC.dll
+C:\Users\mahmo\source\repos\mido22mo\Raqmiya-ITI-MVC-Project\obj\Debug\net8.0\ITI-Raqmiya-MVC.pdb
