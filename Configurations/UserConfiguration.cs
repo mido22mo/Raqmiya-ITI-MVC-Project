@@ -28,6 +28,11 @@ namespace ITI_Raqmiya_MVC.Configurations
                 .IsRequired()
                 .HasMaxLength(255); // Adjust length based on hashing algorithm
 
+            //Salt configuration
+            builder.Property(u => u.Salt)
+                .IsRequired()
+                .HasMaxLength(128); // A common length for salts, adjust based on your hashing needs (e.g., 64, 128, 256)
+
             builder.Property(u => u.Username)
                 .IsRequired()
                 .HasMaxLength(100);

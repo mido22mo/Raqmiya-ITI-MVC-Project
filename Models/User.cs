@@ -12,12 +12,8 @@ namespace ITI_Raqmiya_MVC.Models
         [Display(Name = "Password")]
         [DataType(DataType.Password)]
         public string PasswordHash { get; set; } = string.Empty;
+        public string Salt { get; set; } = string.Empty;
 
-        [Display(Name = "Confirm Password")]
-        [DataType(DataType.Password)]
-        [Compare("PasswordHash", ErrorMessage = "The password and confirmation password do not match.")]
-        [NotMapped]
-        public string ConfirmPassword { get; set; } = string.Empty; // For registration, not stored in DB
         public string Username { get; set; } = string.Empty;
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow; // Use UTC for consistency
         public DateTime? LastLogin { get; set; } // Nullable
