@@ -556,3 +556,4 @@ E:\محمد\ITI\Graduation Project\Raqamyia\obj\Debug\net8.0\scopedcss\projectbu
 E:\محمد\ITI\Graduation Project\Raqamyia\obj\Debug\net8.0\ITI-Raqm.17BE2C14.Up2Date
 E:\محمد\ITI\Graduation Project\Raqamyia\obj\Debug\net8.0\ITI-Raqmiya-MVC.genruntimeconfig.cache
 E:\محمد\ITI\Graduation Project\Raqamyia\obj\Debug\net8.0\ref\ITI-Raqmiya-MVC.dll
+C:\Users\mahmo\Source\Repos\Raqmiya-ITI-MVC-Project\obj\Debug\net8.0\ITI-Raqmiya-MVC.csproj.AssemblyReference.cache

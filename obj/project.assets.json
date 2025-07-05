@@ -7595,23 +7595,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {},
+    "C:\\Users\\mahmo\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\محمد\\ITI\\Graduation Project\\Raqamyia\\ITI-Raqmiya-MVC.csproj",
+      "projectUniqueName": "C:\\Users\\mahmo\\Source\\Repos\\Raqmiya-ITI-MVC-Project\\ITI-Raqmiya-MVC.csproj",
       "projectName": "ITI-Raqmiya-MVC",
-      "projectPath": "E:\\محمد\\ITI\\Graduation Project\\Raqamyia\\ITI-Raqmiya-MVC.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "E:\\محمد\\ITI\\Graduation Project\\Raqamyia\\obj\\",
+      "projectPath": "C:\\Users\\mahmo\\Source\\Repos\\Raqmiya-ITI-MVC-Project\\ITI-Raqmiya-MVC.csproj",
+      "packagesPath": "C:\\Users\\mahmo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mahmo\\Source\\Repos\\Raqmiya-ITI-MVC-Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mahmo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7620,7 +7620,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7671,24 +7670,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.17, 8.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.17, 8.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.17, 8.0.17]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.17, 8.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
