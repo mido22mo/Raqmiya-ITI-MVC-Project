@@ -2,10 +2,10 @@
 {
     public class License
     {
-        public Guid Id { get; set; } // Primary Key
-        public Guid OrderId { get; set; } // Foreign Key to Order (one-to-one)
-        public Guid ProductId { get; set; } // Foreign Key to Product
-        public Guid BuyerId { get; set; } // Foreign Key to User
+        public int Id { get; set; } // Primary Key
+        public int OrderId { get; set; } // Foreign Key to Order (one-to-one)
+        public int ProductId { get; set; } // Foreign Key to Product
+        public int BuyerId { get; set; } // Foreign Key to User
 
         public string? LicenseKey { get; set; } // Nullable, for software licenses etc.
         public DateTime AccessGrantedAt { get; set; }

@@ -2,9 +2,9 @@
 {
     public class Review
     {
-        public Guid Id { get; set; } // Primary Key
-        public Guid ProductId { get; set; } // Foreign Key to Product
-        public Guid UserId { get; set; } // Foreign Key to User
+        public int Id { get; set; } // Primary Key
+        public int ProductId { get; set; } // Foreign Key to Product
+        public int UserId { get; set; } // Foreign Key to User
         public int Rating { get; set; } // e.g., 1 to 5
         public string? Comment { get; set; } // Nullable
         public DateTime CreatedAt { get; set; }

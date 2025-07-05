@@ -2,8 +2,8 @@
 {
     public class AddedFile 
     {
-        public Guid Id { get; set; } // Primary Key
-        public Guid ProductId { get; set; } // Foreign Key to Product
+        public int Id { get; set; } // Primary Key
+        public int ProductId { get; set; } // Foreign Key to Product
         public string Name { get; set; } = string.Empty;
         public string FileUrl { get; set; } = string.Empty; // Secure, private storage URL
         public long Size { get; set; } // File size in bytes

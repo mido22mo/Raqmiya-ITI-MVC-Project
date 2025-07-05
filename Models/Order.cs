@@ -4,9 +4,9 @@ namespace ITI_Raqmiya_MVC.Models
 {
     public class Order
     {
-        public Guid Id { get; set; } // Primary Key
-        public Guid? BuyerId { get; set; } // Foreign Key to User (nullable for guest checkouts)
-        public Guid ProductId { get; set; } // Foreign Key to Product (assuming one product per order for simplicity)
+        public int Id { get; set; } // Primary Key
+        public int? BuyerId { get; set; } // Foreign Key to User (nullable for guest checkouts)
+        public int ProductId { get; set; } // Foreign Key to Product (assuming one product per order for simplicity)
         public decimal PricePaid { get; set; }
         public string Currency { get; set; } = string.Empty;
         public string TransactionId { get; set; } = string.Empty; // From payment gateway

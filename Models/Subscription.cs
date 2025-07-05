@@ -2,9 +2,9 @@
 {
     public class Subscription
     {
-        public Guid Id { get; set; } // Primary Key
-        public Guid BuyerId { get; set; } // Foreign Key to User
-        public Guid ProductId { get; set; } // Foreign Key to Product (the subscription product)
+        public int Id { get; set; } // Primary Key
+        public int BuyerId { get; set; } // Foreign Key to User
+        public int ProductId { get; set; } // Foreign Key to Product (the subscription product)
         public DateTime StartDate { get; set; }
         public DateTime NextPaymentDate { get; set; }
         public string Status { get; set; } = "active"; // e.g., "active", "cancelled", "paused", "failed"

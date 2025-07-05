@@ -11,6 +11,11 @@ namespace ITI_Raqmiya_MVC.Configurations
             // Primary Key
             builder.HasKey(u => u.Id);
 
+            // Configure Id as identity (auto-increment)
+            builder.Property(u => u.Id)
+                .ValueGeneratedOnAdd()
+                .UseIdentityColumn();
+
             // Properties
             builder.Property(u => u.Email)
                 .IsRequired()
@@ -55,7 +60,7 @@ namespace ITI_Raqmiya_MVC.Configurations
             builder.HasMany(u => u.Orders)
                 .WithOne(o => o.Buyer)
                 .HasForeignKey(o => o.BuyerId)
-                .OnDelete(DeleteBehavior.SetNull); // Set BuyerId to null if user is deleted (for guest checkouts)
+                .OnDelete(DeleteBehavior.Restrict); // Prevent deletion of user if they have orders
 
             builder.HasMany(u => u.Reviews)
                 .WithOne(r => r.User)

@@ -2,8 +2,8 @@
 {
     public class Product
     {
-        public Guid Id { get; set; } // Primary Key
-        public Guid CreatorId { get; set; } // Foreign Key to User
+        public int Id { get; set; } // Primary Key
+        public int CreatorId { get; set; } // Foreign Key to User
         public string Name { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public decimal Price { get; set; }
@@ -24,6 +24,9 @@
         public ICollection<OfferCode> OfferCodes { get; set; } = new List<OfferCode>();
         public ICollection<Review> Reviews { get; set; } = new List<Review>();
         public ICollection<Subscription> Subscriptions { get; set; } = new List<Subscription>();
+
+        public ICollection<ProductCategory> ProductCategories { get; set; } = new List<ProductCategory>();
+
 
     }
 }

@@ -10,6 +10,11 @@ namespace ITI_Raqmiya_MVC.Configurations
         {
             builder.HasKey(o => o.Id);
 
+            // Configure Id as identity (auto-increment)
+            builder.Property(o => o.Id)
+                .ValueGeneratedOnAdd()
+                .UseIdentityColumn();
+
             builder.Property(o => o.PricePaid)
                 .IsRequired()
                 .HasColumnType("decimal(18, 2)");
@@ -38,7 +43,7 @@ namespace ITI_Raqmiya_MVC.Configurations
                 .WithMany(u => u.Orders)
                 .HasForeignKey(o => o.BuyerId)
                 .IsRequired(false) // BuyerId can be null for guest checkouts
-                .OnDelete(DeleteBehavior.SetNull); // If a user is deleted, their past orders remain, but BuyerId becomes null
+                .OnDelete(DeleteBehavior.Restrict); // Prevent deletion of user if they have orders
 
             builder.HasOne(o => o.Product)
                 .WithMany(p => p.Orders)

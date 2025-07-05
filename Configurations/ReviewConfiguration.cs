@@ -10,6 +10,11 @@ namespace ITI_Raqmiya_MVC.Configurations
         {
             builder.HasKey(r => r.Id);
 
+            // Configure Id as identity (auto-increment)
+            builder.Property(r => r.Id)
+                .ValueGeneratedOnAdd()
+                .UseIdentityColumn();
+
             builder.Property(r => r.Rating)
                 .IsRequired()
                 .HasColumnType("int"); // Ensure it's an integer

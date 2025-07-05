@@ -6,7 +6,7 @@ namespace ITI_Raqmiya_MVC.Models
 {
     public class User
     {
-        public Guid Id { get; set; } // Primary Key
+        public int Id { get; set; } // Primary Key
         public string Email { get; set; } = string.Empty;
 
         [Display(Name = "Password")]

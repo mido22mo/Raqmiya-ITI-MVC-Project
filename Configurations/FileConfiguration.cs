@@ -10,6 +10,11 @@ namespace ITI_Raqmiya_MVC.Configurations
         {
             builder.HasKey(f => f.Id);
 
+            // Configure Id as identity (auto-increment)
+            builder.Property(f => f.Id)
+                .ValueGeneratedOnAdd()
+                .UseIdentityColumn();
+
             builder.Property(f => f.Name)
                 .IsRequired()
                 .HasMaxLength(255);

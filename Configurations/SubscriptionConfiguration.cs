@@ -10,6 +10,11 @@ namespace ITI_Raqmiya_MVC.Configurations
         {
             builder.HasKey(s => s.Id);
 
+            // Configure Id as identity (auto-increment)
+            builder.Property(s => s.Id)
+                .ValueGeneratedOnAdd()
+                .UseIdentityColumn();
+
             builder.Property(s => s.StartDate)
                 .IsRequired()
                 .HasDefaultValueSql("GETDATE()");

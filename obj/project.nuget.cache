@@ -167,15 +167,5 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file E:\\محمد\\ITI\\Graduation Project\\Raqamyia\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "E:\\محمد\\ITI\\Graduation Project\\Raqamyia\\ITI-Raqmiya-MVC.csproj",
-      "warningLevel": 1,
-      "filePath": "E:\\محمد\\ITI\\Graduation Project\\Raqamyia\\ITI-Raqmiya-MVC.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

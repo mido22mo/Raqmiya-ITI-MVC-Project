@@ -11,6 +11,11 @@ namespace ITI_Raqmiya_MVC.Configurations
         {
             builder.HasKey(p => p.Id);
 
+            // Configure Id as identity (auto-increment)
+            builder.Property(p => p.Id)
+                .ValueGeneratedOnAdd()
+                .UseIdentityColumn();
+
             builder.Property(p => p.Name)
                 .IsRequired()
                 .HasMaxLength(200);
@@ -77,6 +82,12 @@ namespace ITI_Raqmiya_MVC.Configurations
                 .WithOne(o => o.Product)
                 .HasForeignKey(o => o.ProductId)
                 .OnDelete(DeleteBehavior.Restrict); // Don't delete product if it has orders
+
+            // NEW: Many-to-many relationship with Category via ProductCategory join entity
+            builder.HasMany(p => p.ProductCategories) // A Product has many ProductCategory entries
+                .WithOne(pc => pc.Product) // Each ProductCategory entry is for one Product
+                .HasForeignKey(pc => pc.ProductId) // The foreign key in ProductCategory pointing to Product is ProductId
+                .OnDelete(DeleteBehavior.Cascade); // If a product is deleted, its entries in the join table are deleted
         }
     }
 }

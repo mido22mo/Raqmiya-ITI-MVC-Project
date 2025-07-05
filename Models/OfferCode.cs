@@ -2,8 +2,8 @@
 {
     public class OfferCode
     {
-        public Guid Id { get; set; } // Primary Key
-        public Guid? ProductId { get; set; } // Nullable: if null, applies store-wide for creator
+        public int Id { get; set; } // Primary Key
+        public int? ProductId { get; set; } // Nullable: if null, applies store-wide for creator
         public string Code { get; set; } = string.Empty; // The actual discount code
         public string DiscountType { get; set; } = "percentage"; // "percentage", "fixed_amount"
         public decimal DiscountValue { get; set; }

@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ITI_Raqmiya_MVC.Migrations
 {
     [DbContext(typeof(RaqmiyaContext))]
-    [Migration("20250704235342_db1")]
-    partial class db1
+    [Migration("20250705172232_added_category_and_replaced_GUIDs_with_IDs")]
+    partial class added_category_and_replaced_GUIDs_with_IDs
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -27,9 +27,11 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.AddedFile", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("ContentType")
                         .IsRequired()
@@ -46,8 +48,8 @@ namespace ITI_Raqmiya_MVC.Migrations
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
 
-                    b.Property<Guid>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<long>("Size")
                         .HasColumnType("bigint");
@@ -59,19 +61,51 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.ToTable("Files");
                 });
 
+            modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Description")
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<int?>("ParentCategoryId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Name")
+                        .IsUnique();
+
+                    b.HasIndex("ParentCategoryId");
+
+                    b.ToTable("Categories");
+                });
+
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.License", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("AccessGrantedAt")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
                         .HasDefaultValueSql("GETDATE()");
 
-                    b.Property<Guid>("BuyerId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("BuyerId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime?>("ExpiresAt")
                         .HasColumnType("datetime2");
@@ -80,11 +114,11 @@ namespace ITI_Raqmiya_MVC.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<Guid>("OrderId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("OrderId")
+                        .HasColumnType("int");
 
-                    b.Property<Guid>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Status")
                         .IsRequired()
@@ -105,9 +139,11 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.OfferCode", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Code")
                         .IsRequired()
@@ -125,8 +161,8 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.Property<DateTime?>("ExpiresAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<Guid?>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int?>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("StartsAt")
                         .ValueGeneratedOnAdd()
@@ -153,12 +189,14 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Order", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
 
-                    b.Property<Guid?>("BuyerId")
-                        .HasColumnType("uniqueidentifier");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int?>("BuyerId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Currency")
                         .IsRequired()
@@ -182,8 +220,8 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.Property<decimal>("PricePaid")
                         .HasColumnType("decimal(18, 2)");
 
-                    b.Property<Guid>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<string>("TransactionId")
                         .IsRequired()
@@ -201,22 +239,24 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Post", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Content")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<Guid>("CreatorId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("CreatorId")
+                        .HasColumnType("int");
 
                     b.Property<bool>("IsPublic")
                         .HasColumnType("bit");
 
-                    b.Property<Guid?>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int?>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("PublishedAt")
                         .ValueGeneratedOnAdd()
@@ -239,15 +279,17 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Product", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("CoverImageUrl")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<Guid>("CreatorId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("CreatorId")
+                        .HasColumnType("int");
 
                     b.Property<string>("Currency")
                         .IsRequired()
@@ -300,11 +342,28 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("ITI_Raqmiya_MVC.Models.ProductCategory", b =>
+                {
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ProductId", "CategoryId");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("ProductCategories");
+                });
+
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Review", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Comment")
                         .HasMaxLength(2000)
@@ -320,14 +379,14 @@ namespace ITI_Raqmiya_MVC.Migrations
                         .HasColumnType("bit")
                         .HasDefaultValue(false);
 
-                    b.Property<Guid>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<int>("Rating")
                         .HasColumnType("int");
 
-                    b.Property<Guid>("UserId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -340,12 +399,14 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Subscription", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
 
-                    b.Property<Guid>("BuyerId")
-                        .HasColumnType("uniqueidentifier");
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("BuyerId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("NextPaymentDate")
                         .HasColumnType("datetime2");
@@ -355,8 +416,8 @@ namespace ITI_Raqmiya_MVC.Migrations
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
 
-                    b.Property<Guid>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("StartDate")
                         .ValueGeneratedOnAdd()
@@ -382,9 +443,11 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.User", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<DateTime>("CreatedAt")
                         .ValueGeneratedOnAdd()
@@ -440,9 +503,11 @@ namespace ITI_Raqmiya_MVC.Migrations
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Variant", b =>
                 {
-                    b.Property<Guid>("Id")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("uniqueidentifier");
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("Description")
                         .HasMaxLength(500)
@@ -456,8 +521,8 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.Property<decimal>("PriceAdjustment")
                         .HasColumnType("decimal(18, 2)");
 
-                    b.Property<Guid>("ProductId")
-                        .HasColumnType("uniqueidentifier");
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
 
@@ -475,6 +540,16 @@ namespace ITI_Raqmiya_MVC.Migrations
                         .IsRequired();
 
                     b.Navigation("Product");
+                });
+
+            modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Category", b =>
+                {
+                    b.HasOne("ITI_Raqmiya_MVC.Models.Category", "ParentCategory")
+                        .WithMany("Subcategories")
+                        .HasForeignKey("ParentCategoryId")
+                        .OnDelete(DeleteBehavior.Restrict);
+
+                    b.Navigation("ParentCategory");
                 });
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.License", b =>
@@ -519,7 +594,7 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.HasOne("ITI_Raqmiya_MVC.Models.User", "Buyer")
                         .WithMany("Orders")
                         .HasForeignKey("BuyerId")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.HasOne("ITI_Raqmiya_MVC.Models.Product", "Product")
                         .WithMany("Orders")
@@ -543,7 +618,7 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.HasOne("ITI_Raqmiya_MVC.Models.Product", "Product")
                         .WithMany()
                         .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.SetNull);
+                        .OnDelete(DeleteBehavior.Restrict);
 
                     b.Navigation("Creator");
 
@@ -559,6 +634,25 @@ namespace ITI_Raqmiya_MVC.Migrations
                         .IsRequired();
 
                     b.Navigation("Creator");
+                });
+
+            modelBuilder.Entity("ITI_Raqmiya_MVC.Models.ProductCategory", b =>
+                {
+                    b.HasOne("ITI_Raqmiya_MVC.Models.Category", "Category")
+                        .WithMany("ProductCategories")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("ITI_Raqmiya_MVC.Models.Product", "Product")
+                        .WithMany("ProductCategories")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+
+                    b.Navigation("Product");
                 });
 
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Review", b =>
@@ -610,6 +704,13 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.Navigation("Product");
                 });
 
+            modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Category", b =>
+                {
+                    b.Navigation("ProductCategories");
+
+                    b.Navigation("Subcategories");
+                });
+
             modelBuilder.Entity("ITI_Raqmiya_MVC.Models.Order", b =>
                 {
                     b.Navigation("License");
@@ -622,6 +723,8 @@ namespace ITI_Raqmiya_MVC.Migrations
                     b.Navigation("OfferCodes");
 
                     b.Navigation("Orders");
+
+                    b.Navigation("ProductCategories");
 
                     b.Navigation("Reviews");
 
